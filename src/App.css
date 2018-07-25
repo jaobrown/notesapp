@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.notesBody {
+    padding: 16px;
+    margin: 32px 0;
+    overflow: scroll;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 95%;
+    padding: 16px;
+    background-color: white;
+}
